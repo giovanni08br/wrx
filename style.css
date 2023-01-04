@@ -59,7 +59,7 @@
 /* ---INTRODUCAO--- */
 
 .l-introducao{
-    background-image: url(/IMG/bg\ head\ low.png);
+    background-image: url(IMG/bg\ head\ low.png);
     background-size: cover;
     height: 51.823vw;
     display: flex;
