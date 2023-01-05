@@ -663,6 +663,16 @@
         background: #552547;
     }
 
+    .c-ul-ends li{
+        color:#ffdc70;
+        list-style:none;
+    }
+
+    .c-ul-ends li a{
+        text-decoration:none;
+        color:#ffdc70;
+    }
+
     .c-cont-footer{
         display: flex;
         /* gap: 80px; */
