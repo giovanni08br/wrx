@@ -673,6 +673,10 @@
         color:#ffdc70;
     }
 
+    #end{
+        margin-bottom: 20px;
+    }
+
     .c-cont-footer{
         display: flex;
         /* gap: 80px; */
